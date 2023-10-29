@@ -1,0 +1,16 @@
+tap "homebrew/cask"
+brew 'tree'
+brew 'wget'
+brew 'r'
+brew 'gh'
+brew 'awscli'
+cask 'firefox'
+cask 'flux'
+cask 'spotify'
+cask '1password'
+cask 'docker'
+cask 'iterm2'
+cask 'rstudio'
+cask 'visual-studio-code'
+cask 'rectangle'
+
