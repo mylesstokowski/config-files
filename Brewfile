@@ -1,4 +1,3 @@
-tap "homebrew/cask"
 brew 'tree'
 brew 'wget'
 brew 'r'
